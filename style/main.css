@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Lora:400,700');
+
+/* Main Defaults */
+body {
+  background-color: white;
+  height: 100%;
+  font-family: 'Lora', serif;
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+
+
+/* Intro Text */
+.main-text {
+  font-size: 25pt;
+  width: 100%;
+  height: auto;
+  margin-top: 20vh;
+  margin-bottom: 10vh;
+  font-weight: 400;
+}
+
+.main-text strong {
+  font-weight: 700;
+}
+
+
+/* Section */
+.section {
+    margin-top: 10vh;
+}
